@@ -30,6 +30,8 @@
       <g:custom_label_1>badge-new-style</g:custom_label_1>
       <g:custom_label_2>no-fur</g:custom_label_2>
       <g:custom_label_3>750 Fill Power Responsibly Sourced Down</g:custom_label_3>
+      <g:tei_rating>TEI-2</g:tei_rating>
+
     </item>
 
     <!-- Product 2 -->
@@ -51,6 +53,9 @@
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
+
     </item>
 
     <!-- Product 3 -->
@@ -72,6 +77,9 @@
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
+
     </item>
 
     <!-- Product 4 -->
@@ -93,6 +101,8 @@
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 5 -->
@@ -114,6 +124,8 @@
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 6 -->
@@ -135,6 +147,8 @@
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 7 -->
@@ -156,6 +170,8 @@
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 8 -->
@@ -177,6 +193,8 @@
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 9 -->
@@ -198,6 +216,8 @@
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 10 -->
@@ -219,6 +239,8 @@
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 11 -->
@@ -240,6 +262,8 @@
       <g:gender>male</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
     <!-- Product 12 -->
@@ -261,6 +285,8 @@
       <g:gender>female</g:gender>
       <g:age_group>adult</g:age_group>
       <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:tei_rating>TEI-1</g:tei_rating>
     </item>
 
   </channel>
