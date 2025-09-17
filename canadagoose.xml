@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Canada Goose Example Feed</title>
+    <link>https://aata-007.canadagoose.com/</link>
+    <description>Expanded sample feed with 12 products</description>
+
+    <!-- Product 1 -->
+    <item>
+      <g:id>628343005515</g:id>
+      <g:title>HyBridge® Steppstrick-Kapuzenjacke mit Black Label</g:title>
+      <g:description>Der gesteppter HyBridge® Strick-Kapuzenpullover vereint die erstklassige Qualität von in Italien hergestellter Merinowolle mit unserer Expertise bei leichten Daunen.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-steppstrick-kapuzenjacke-mit-black-label-628343005515.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:additional_image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61_a.jpg</g:additional_image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>775.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Strickwaren</g:product_type>
+      <g:color>Black</g:color>
+      <g:size>XS</g:size>
+      <g:material>100-Fine-Merino-Wool-19.5-Microns</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+      <g:custom_label_0>hybridge-knits</g:custom_label_0>
+      <g:custom_label_1>badge-new-style</g:custom_label_1>
+      <g:custom_label_2>no-fur</g:custom_label_2>
+      <g:custom_label_3>750 Fill Power Responsibly Sourced Down</g:custom_label_3>
+    </item>
+
+    <!-- Product 2 -->
+    <item>
+      <g:id>628343005546</g:id>
+      <g:title>HyBridge® Strickjacke Damen</g:title>
+      <g:description>Leichte Strickjacke mit Performance-Nylon-Einsätzen und regulärer Passform. Ideal für kühle Tage.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-strickjacke-damen-628343005546.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>695.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Strickwaren</g:product_type>
+      <g:color>Grey</g:color>
+      <g:size>S</g:size>
+      <g:material>Merino-Wool, Performance-Nylon</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 3 -->
+    <item>
+      <g:id>628343005645</g:id>
+      <g:title>HyBridge® Hoodie Herren</g:title>
+      <g:description>Daunen-gefütterter Hoodie mit verstellbarer Kapuze und hohem Komfort.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-hoodie-herren-628343005645.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>825.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Jacken</g:product_type>
+      <g:color>Navy</g:color>
+      <g:size>M</g:size>
+      <g:material>Merino-Wool Blend</g:material>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 4 -->
+    <item>
+      <g:id>628343880600</g:id>
+      <g:title>HyBridge® Weste Black Label</g:title>
+      <g:description>Leichte Daunenweste mit hoher Hüftlänge und zwei Reißverschlusstaschen.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-weste-black-label-628343880600.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>495.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Westen</g:product_type>
+      <g:color>Red</g:color>
+      <g:size>L</g:size>
+      <g:material>Performance-Nylon</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 5 -->
+    <item>
+      <g:id>628343880624</g:id>
+      <g:title>HyBridge® Kapuzenpullover Herren</g:title>
+      <g:description>Kapuzenpullover mit elastischen Bündchen und Daunenfüllung. Perfekt für die Übergangszeit.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-kapuzenpullover-herren-628343880624.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>715.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Strickwaren</g:product_type>
+      <g:color>Olive</g:color>
+      <g:size>XL</g:size>
+      <g:material>Merino-Wool</g:material>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 6 -->
+    <item>
+      <g:id>628343005669</g:id>
+      <g:title>HyBridge® Strickpullover Damen</g:title>
+      <g:description>Eleganter Strickpullover mit hohem Tragekomfort und Daunenfüllung.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-strickpullover-damen-628343005669.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>755.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Pullover</g:product_type>
+      <g:color>White</g:color>
+      <g:size>M</g:size>
+      <g:material>Wool-Nylon Blend</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 7 -->
+    <item>
+      <g:id>628343880631</g:id>
+      <g:title>HyBridge® Herrenjacke</g:title>
+      <g:description>Herrenjacke mit hohem Kragen, Reißverschluss und regulärer Passform.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-herrenjacke-628343880631.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>945.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Jacken</g:product_type>
+      <g:color>Blue</g:color>
+      <g:size>XL</g:size>
+      <g:material>Performance-Nylon</g:material>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 8 -->
+    <item>
+      <g:id>628343005553</g:id>
+      <g:title>HyBridge® Damenpullover Black Label</g:title>
+      <g:description>Damenpullover aus Merinowolle mit Daunenfüllung, ideal für den Alltag.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-damenpullover-black-label-628343005553.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>775.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Pullover</g:product_type>
+      <g:color>Black</g:color>
+      <g:size>S</g:size>
+      <g:material>Merino-Wool</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 9 -->
+    <item>
+      <g:id>628343880617</g:id>
+      <g:title>HyBridge® Herren Weste</g:title>
+      <g:description>Sportliche Herrenweste mit Daunenfüllung und Reißverschluss.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-herren-weste-628343880617.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>525.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Westen</g:product_type>
+      <g:color>Charcoal</g:color>
+      <g:size>L</g:size>
+      <g:material>Performance-Nylon</g:material>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 10 -->
+    <item>
+      <g:id>628343005652</g:id>
+      <g:title>HyBridge® Damenjacke mit Kapuze</g:title>
+      <g:description>Damenjacke mit nicht abnehmbarer Kapuze, Rippstrickbündchen und Daunenfüllung.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-damenjacke-mit-kapuze-628343005652.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>985.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Jacken</g:product_type>
+      <g:color>Burgundy</g:color>
+      <g:size>M</g:size>
+      <g:material>Merino-Wool Blend</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 11 -->
+    <item>
+      <g:id>628343005638</g:id>
+      <g:title>HyBridge® Sweatjacke Herren</g:title>
+      <g:description>Sportliche Sweatjacke mit weichem Futter und elastischen Bündchen.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-sweatjacke-herren-628343005638.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>645.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Strickwaren</g:product_type>
+      <g:color>Khaki</g:color>
+      <g:size>L</g:size>
+      <g:material>Cotton-Nylon</g:material>
+      <g:gender>male</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+    <!-- Product 12 -->
+    <item>
+      <g:id>628343880648</g:id>
+      <g:title>HyBridge® Damenweste</g:title>
+      <g:description>Leichte Damenweste mit Reißverschlusstaschen und hochwertiger Daunenfüllung.</g:description>
+      <g:link>https://aata-007.canadagoose.com/de/de/pr/hybridge-damenweste-628343880648.html</g:link>
+      <g:image_link>https://images.canadagoose.com/image/upload/product-image/6800LB_61.jpg</g:image_link>
+      <g:availability>in stock</g:availability>
+      <g:price>525.00 EUR</g:price>
+      <g:brand>Canada Goose</g:brand>
+      <g:condition>new</g:condition>
+      <g:google_product_category>1604</g:google_product_category>
+      <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Westen</g:product_type>
+      <g:color>Sand</g:color>
+      <g:size>S</g:size>
+      <g:material>Performance-Nylon</g:material>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:item_group_id>6800LB</g:item_group_id>
+    </item>
+
+  </channel>
+</rss>
