@@ -21,6 +21,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Strickwaren</g:product_type>
       <g:color>Black</g:color>
+      <g:color_hex>#000000</g:color_hex>
       <g:size>XS</g:size>
       <g:material>100-Fine-Merino-Wool-19.5-Microns</g:material>
       <g:gender>female</g:gender>
@@ -48,6 +49,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Strickwaren</g:product_type>
       <g:color>Grey</g:color>
+      <g:color_hex>#808080</g:color_hex>
       <g:size>S</g:size>
       <g:material>Merino-Wool, Performance-Nylon</g:material>
       <g:gender>female</g:gender>
@@ -72,6 +74,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Jacken</g:product_type>
       <g:color>Navy</g:color>
+      <g:color_hex>#000080</g:color_hex>
       <g:size>M</g:size>
       <g:material>Merino-Wool Blend</g:material>
       <g:gender>male</g:gender>
@@ -96,6 +99,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Westen</g:product_type>
       <g:color>Red</g:color>
+      <g:color_hex>#FF0000</g:color_hex>
       <g:size>L</g:size>
       <g:material>Performance-Nylon</g:material>
       <g:gender>female</g:gender>
@@ -119,6 +123,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Strickwaren</g:product_type>
       <g:color>Olive</g:color>
+      <g:color_hex>#808000</g:color_hex>
       <g:size>XL</g:size>
       <g:material>Merino-Wool</g:material>
       <g:gender>male</g:gender>
@@ -142,6 +147,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Pullover</g:product_type>
       <g:color>White</g:color>
+      <g:color_hex>#FFFFFF</g:color_hex>
       <g:size>M</g:size>
       <g:material>Wool-Nylon Blend</g:material>
       <g:gender>female</g:gender>
@@ -165,6 +171,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Jacken</g:product_type>
       <g:color>Blue</g:color>
+      <g:color_hex>#0000FF</g:color_hex>
       <g:size>XL</g:size>
       <g:material>Performance-Nylon</g:material>
       <g:gender>male</g:gender>
@@ -188,6 +195,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Pullover</g:product_type>
       <g:color>Black</g:color>
+      <g:color_hex>#000000</g:color_hex>
       <g:size>S</g:size>
       <g:material>Merino-Wool</g:material>
       <g:gender>female</g:gender>
@@ -211,6 +219,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Westen</g:product_type>
       <g:color>Charcoal</g:color>
+      <g:color_hex>#36454F</g:color_hex>
       <g:size>L</g:size>
       <g:material>Performance-Nylon</g:material>
       <g:gender>male</g:gender>
@@ -234,6 +243,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Jacken</g:product_type>
       <g:color>Burgundy</g:color>
+      <g:color_hex>#800020</g:color_hex>
       <g:size>M</g:size>
       <g:material>Merino-Wool Blend</g:material>
       <g:gender>female</g:gender>
@@ -257,6 +267,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Herren &gt; Bekleidung &gt; Strickwaren</g:product_type>
       <g:color>Khaki</g:color>
+      <g:color_hex>#c3b091</g:color_hex>
       <g:size>L</g:size>
       <g:material>Cotton-Nylon</g:material>
       <g:gender>male</g:gender>
@@ -280,6 +291,7 @@
       <g:google_product_category>1604</g:google_product_category>
       <g:product_type>Einkaufen &gt; Damen &gt; Bekleidung &gt; Westen</g:product_type>
       <g:color>Sand</g:color>
+      <g:color_hex>#C2B280</g:color_hex>
       <g:size>S</g:size>
       <g:material>Performance-Nylon</g:material>
       <g:gender>female</g:gender>
